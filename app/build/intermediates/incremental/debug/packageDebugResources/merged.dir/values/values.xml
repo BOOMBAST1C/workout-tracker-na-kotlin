@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0B0F0C</color>
+    <string name="app_name">Rep</string>
+    <style name="Theme.Rep" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF090C0A</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
